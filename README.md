@@ -40,7 +40,7 @@ I build end-to-end data solutions — from Snowflake pipelines and dbt models to
 ```python
 stack = {
     "Languages":     ["Python", "SQL", "R"],
-    "AI/ML":         ["LLMs", "RAG", "NLP", "PyTorch", "scikit-learn", "DistilBERT"],
+    "AI/ML":         ["LLMs", "RAG", "n8n", "NLP", "PyTorch", "scikit-learn", "AI-Agents"],
     "Data Eng":      ["Snowflake", "dbt", "Azure", "AWS", "ETL/ELT", "Data Vault"],
     "BI & Viz":      ["Power BI", "Tableau", "Metabase", "Streamlit", "Plotly"],
     "Databases":     ["PostgreSQL", "MSSQL", "SQLite"],
