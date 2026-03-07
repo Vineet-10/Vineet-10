@@ -22,7 +22,7 @@ I build end-to-end data solutions — from Snowflake pipelines and dbt models to
 |---|---|---|
 | [AI Resume Agent](https://github.com/Vineet-10/interactive_resume_ai) | Conversational AI agent — ask it anything about my experience | Python · LLM · RAG · LLaMA 3.3 70B |
 | [Ship Trajectory Prediction](https://github.com/Vineet-10/Simulation-and-Analysis-of-Shipment-Trajectories) | LSTM + Transformer models forecasting ship routes from AIS data | Python · LSTM · Transformers · Streamlit |
-| [Football Analytics Dashboard]([https://github.com/Vineet-10/](https://github.com/Vineet-10/indian-football-analytics)) | Power BI dashboard on ISL/I-League data — pitched to AIFF | Power BI · DAX · Sports Analytics |
+| [Football Analytics Dashboard](https://github.com/Vineet-10/indian-football-analytics) | Power BI dashboard on ISL/I-League data — pitched to AIFF | Power BI · DAX · Sports Analytics |
 | [GastroTrust](https://github.com/Vineet-10/GastroTrust) | Fake restaurant review detection using NLP + ML | Python · DistilBERT · Gradient Boosting |
 
 
