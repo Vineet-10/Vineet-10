@@ -22,7 +22,7 @@ I build end-to-end data solutions — from Snowflake pipelines and dbt models to
 |---|---|---|
 | [AI Resume Agent](https://github.com/Vineet-10/interactive_resume_ai) | Conversational AI agent — ask it anything about my experience | Python · LLM · RAG · LLaMA 3.3 70B |
 | [Ship Trajectory Prediction](https://github.com/Vineet-10/Simulation-and-Analysis-of-Shipment-Trajectories) | LSTM + Transformer models forecasting ship routes from AIS data | Python · LSTM · Transformers · Streamlit |
-| [Football Analytics Dashboard](https://github.com/Vineet-10/indian-football-analytics) | Power BI dashboard on ISL/I-League data — pitched to AIFF | Power BI · DAX · Sports Analytics |
+| [Football Analytics Dashboard](https://github.com/Vineet-10/indian-football-analytics) | Streamlit app mapping India's football talent pipeline and strategic growth | Python · Streamlit · Data Storytelling· Sports Analytics |
 | [GastroTrust](https://github.com/Vineet-10/GastroTrust) | Fake restaurant review detection using NLP + ML | Python · DistilBERT · Gradient Boosting |
 
 
@@ -30,7 +30,7 @@ I build end-to-end data solutions — from Snowflake pipelines and dbt models to
 
 ## 💼 Experience Highlights
 
-- 📦 Built Snowflake + dbt pipelines processing **millions of SAP records** for **Fortune Brands** (Fortune 500)
+- ❄️ Built Snowflake + dbt pipelines processing **millions of SAP records** for **Fortune Brands** (Fortune 500)
 - 📈 Delivered **30+ dashboards** used by C-suite for lending strategy at Finaxar (Fintech, Singapore)  
 - 🔬 Teaching **Machine Learning & Data Mining** to master's students at OvGU Magdeburg  
 - ⚡ Reduced manual reporting effort by **40%** via automated Python + SQL pipelines  
