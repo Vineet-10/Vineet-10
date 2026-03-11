@@ -6,9 +6,9 @@
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Can Do
 
-I build end-to-end data solutions — from Snowflake pipelines and dbt models to LLM-powered AI agents and BI dashboards that drive real business decisions.
+I build end-to-end data solutions, from Snowflake pipelines and dbt models to LLM-powered AI agents and BI dashboards that drive real business decisions.
 
 - 🏭 **Data Engineering** — Snowflake, dbt, ETL/ELT pipelines, Data Vault, Azure, AWS  
 - 🤖 **AI & Machine Learning** — LLMs, RAG Architecture, n8n, AI-AGents,NLP, PyTorch, scikit-learn  
